@@ -1,0 +1,1 @@
+this directory has a file that contains a scripting comman 'pwd'
