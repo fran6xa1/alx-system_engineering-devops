@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod pr ugo+x
+chmod 644 d755
