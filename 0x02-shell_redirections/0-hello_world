@@ -1,2 +1,2 @@
 #!/bin/bash
-pwd hello world $
+echo "Hello, World"
